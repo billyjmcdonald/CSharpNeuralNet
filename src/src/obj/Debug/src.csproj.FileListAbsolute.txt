@@ -1,0 +1,1 @@
+C:\Users\BM8865\Documents\Visual Studio 2013\Projects\csharpneuralnet\src\src\bin\Debug\src.exe.config
